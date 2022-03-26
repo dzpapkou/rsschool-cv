@@ -7,7 +7,7 @@
 **Phone:** +375447701497<br>
 **E-mail:** dzpapkou@mail.ru<br>
 **Telegram:** @D3imka<br>
-**[Codewars]** (https://www.codewars.com/users/D3imka)<br>
+[Codewars](https://www.codewars.com/users/D3imka)<br>
 
 ---
 
